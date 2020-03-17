@@ -18,8 +18,7 @@ namespace EX_CheckedListBox
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            //checkedListBox1.Items.Add("165TDV200001");
-            //checkedListBox1.Items.Add("57K2");
+           
             checkedListBox1.Items.Add("Công nghệ thông tin");
             checkedListBox1.Items.Add("Đại Học Vinh");
             checkedListBox1.Items.Add("Việt Nam");
